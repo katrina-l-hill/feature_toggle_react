@@ -10,5 +10,5 @@ This project demonstrates a simple **Feature Toggle** implementation in a React 
 ## Installation
 - Clone the repo:
   - git clone `https://github.com/katrina-l-hill/feature_toggle_react`
-  - cd feature-toggle-expo
+  - cd feature-toggle-demo
   - npx expo start
